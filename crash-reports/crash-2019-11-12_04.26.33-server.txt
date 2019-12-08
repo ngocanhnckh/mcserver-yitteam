@@ -1,0 +1,56 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+Contact their authors BEFORE contacting forge
+
+// I just don't know what went wrong :(
+
+Time: 11/12/19 4:26 AM
+Description: Exception in server tick loop
+
+Wrong Minecraft Versions!
+Mod: worldedit
+Location: ./mods/worldedit-forge-mc1.14.4-7.0.1.jar
+Expected: [1.13,)
+Current: Minecraft 1.12.2
+
+net.minecraftforge.fml.common.WrongMinecraftVersionException: Wrong Minecraft version for worldedit
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:252)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 4.15.0-66-generic
+	Java Version: 1.8.0_222, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 396202872 bytes (377 MB) / 519110656 bytes (495 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 2 total; -Xms512M -Xmx1024M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 8 mods loaded, 8 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                 | Version      | Source                                  | Signature |
+	|:----- |:------------------ |:------------ |:--------------------------------------- |:--------- |
+	| L     | minecraft          | 1.12.2       | minecraft.jar                           | None      |
+	| L     | mcp                | 9.42         | minecraft.jar                           | None      |
+	| L     | FML                | 8.0.99.99    | forge-1.12.2-14.23.5.2847-universal.jar | None      |
+	| L     | forge              | 14.23.5.2847 | forge-1.12.2-14.23.5.2847-universal.jar | None      |
+	| L     | flansmodapocalypse | 1.0          | Flan's Mod-1.12.2-5.5.2.jar             | None      |
+	| L     | flansmod           | 5.5.2        | Flan's Mod-1.12.2-5.5.2.jar             | None      |
+	| L     | cfm                | 6.3.1        | MrCrayfishs-Furniture-Mod-1.12.2.jar    | None      |
+	| L     | worldedit          | 1.0          | worldedit-forge-mc1.14.4-7.0.1.jar      | None      |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
