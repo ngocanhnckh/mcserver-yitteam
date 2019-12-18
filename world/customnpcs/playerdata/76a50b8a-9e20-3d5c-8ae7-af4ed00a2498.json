@@ -1,0 +1,48 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 1469L,
+            "Slot": 1
+        }
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "ngocanhnckh",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 1
+            }
+        ]
+    },
+    "UUID": "76a50b8a-9e20-3d5c-8ae7-af4ed00a2498",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        }
+    ]
+}

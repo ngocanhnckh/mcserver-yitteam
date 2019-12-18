@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2019-12-12 08:59:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2019-11-28 09:14:45 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-12-12 08:24:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-11-28 10:53:05 +0000"
@@ -326,6 +338,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2019-12-02 03:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2019-12-12 08:24:47 +0000"
     },
     "done": true
   },
@@ -499,6 +517,7 @@
       "deep_ocean": "2019-11-28 12:21:12 +0000",
       "beaches": "2019-11-28 12:19:30 +0000",
       "extreme_hills_with_trees": "2019-11-28 09:23:39 +0000",
+      "desert_hills": "2019-12-12 09:32:38 +0000",
       "forest_hills": "2019-11-28 12:19:01 +0000",
       "plains": "2019-11-28 10:02:34 +0000",
       "birch_forest_hills": "2019-12-02 03:56:36 +0000",
@@ -757,6 +776,12 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2019-12-02 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-12-17 04:54:45 +0000"
     },
     "done": true
   },

@@ -1,0 +1,118 @@
+{
+    "CompleterNpc": "Maria Ozawa",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "make love",
+    "Text": "",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1576576446754L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "flansmod:ak47",
+                "Count": 1b,
+                "tag": {
+                    "attachments": {
+                        "barrel": {
+                        },
+                        "grip": {
+                        },
+                        "generic_0": {
+                        },
+                        "scope": {
+                        },
+                        "stock": {
+                        }
+                    },
+                    "ammo": [
+                        {
+                            "id": "flansmod:ak47ammo",
+                            "Count": 1b,
+                            "Damage": 6s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "flansmod:ak47",
+                "Count": 1b,
+                "tag": {
+                    "attachments": {
+                        "barrel": {
+                        },
+                        "grip": {
+                        },
+                        "generic_0": {
+                        },
+                        "scope": {
+                        },
+                        "stock": {
+                        }
+                    },
+                    "ammo": [
+                        {
+                            "id": "flansmod:ak47ammo",
+                            "Count": 1b,
+                            "Damage": 6s
+                        }
+                    ]
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "cfm:fire_pit_on",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "",
+    "NextQuestTitle": ""
+}

@@ -1,0 +1,48 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 1481L,
+            "Slot": 1
+        }
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "aiden",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 1
+            }
+        ]
+    },
+    "UUID": "6f189850-27e9-3603-8fec-2f39b1a4f0fd",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        }
+    ]
+}
