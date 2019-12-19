@@ -1,0 +1,27 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Etera",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "e4e5f090-9fa8-3096-b4c1-8f4f55d79532",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
