@@ -1,19 +1,7 @@
-[16:28:52][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Thu Dec 19 16:28:52 UTC 2019
-[16:28:52][FINE/CustomNPCs][noppes.npcs.CustomNpcs:229] Script Engines Available:
-[16:28:52][FINE/CustomNPCs][noppes.npcs.CustomNpcs:229] ECMAScript: .js
-[16:28:54][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
-[16:28:54][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
-[16:28:58][FINE/CustomNPCs][noppes.npcs.CustomNpcs:282] Loading Dialogs
-[16:28:58][FINE/CustomNPCs][noppes.npcs.CustomNpcs:282] Done loading Dialogs
-[01:35:41][SEVERE/CustomNPCs][java.util.concurrent.Executors$RunnableAdapter:511] Error with EnumPacketServer.SchematicsBuild
-[01:35:41][SEVERE/CustomNPCs][java.util.concurrent.Executors$RunnableAdapter:511] java.lang.NullPointerException
-	at noppes.npcs.PacketHandlerServer.handlePacket(PacketHandlerServer.java:782)
-	at noppes.npcs.PacketHandlerServer.lambda$onServerPacket$0(PacketHandlerServer.java:80)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723)
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-	at java.lang.Thread.run(Thread.java:748)
+[01:54:52][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Fri Dec 20 01:54:52 UTC 2019
+[01:54:52][FINE/CustomNPCs][noppes.npcs.CustomNpcs:229] Script Engines Available:
+[01:54:52][FINE/CustomNPCs][noppes.npcs.CustomNpcs:229] ECMAScript: .js
+[01:54:53][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
+[01:54:53][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
+[01:54:58][FINE/CustomNPCs][noppes.npcs.CustomNpcs:282] Loading Dialogs
+[01:54:58][FINE/CustomNPCs][noppes.npcs.CustomNpcs:282] Done loading Dialogs

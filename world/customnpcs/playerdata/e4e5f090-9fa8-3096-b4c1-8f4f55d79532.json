@@ -6,10 +6,18 @@
     "NpcsTimers": [
     ],
     "FactionData": [
+        {
+            "Points": 500,
+            "Faction": 5
+        }
     ],
     "BankData": [
     ],
     "ItemGiversList": [
+        {
+            "Long": 1767L,
+            "Slot": 1
+        }
     ],
     "MailData": [
     ],

@@ -1,0 +1,54 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 500,
+            "Faction": 5
+        },
+        {
+            "Points": 1500,
+            "Faction": 7
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 1786L,
+            "Slot": 1
+        }
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Navi",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 1
+            }
+        ]
+    },
+    "UUID": "506d928d-f7a3-3858-82df-0d23c2a530fb",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        }
+    ]
+}
